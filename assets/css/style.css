@@ -1,0 +1,23 @@
+body{
+	background: white;
+	text-align: center;
+}
+
+.text-muted{
+	color: blue;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
+
+.top{
+    width: 100%
+}
+
+#start{
+
+background: red
+}
